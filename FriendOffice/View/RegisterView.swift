@@ -108,6 +108,8 @@ struct RegisterView: View {
     }
 }
 
+
+
 #Preview {
     RegisterView(variables: Variables())
 }
