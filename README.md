@@ -26,7 +26,7 @@ Environment & State Management – For reactive UI updates
 
 📦 Installation
 Clone the repo and run the app in Xcode:
-git clone https://github.com/yourusername/friendooffice.git
+git clone [https://github.com/yourusername/friendooffice.git](https://github.com/shivakumarChirra/Friend-s-getting-request-App)
 cd friendooffice
 open FriendOffice.xcodeproj
 Then:
